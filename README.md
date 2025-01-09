@@ -16,6 +16,6 @@ i will explain how to run the project
 4. node app.js (then backend is running on http://localhost:3000)
 # Run Frontend
 1. cd /artifitia/
-2. cd /artifitia-test-frontend/
+2. cd /artifitia-frontend/
 3. npm install
 4. npm run dev (then frontend is running on http://localhost:3001)
