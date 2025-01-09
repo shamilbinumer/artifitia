@@ -8,11 +8,14 @@ In my github repo have two folder frontend and backend
 
 i will explain how to run the project
 
-1. git clone repo-url
-2. cd /artifitia/
-3. cd /artifitia-backend/
-4. npm install
-5. node app.js (then backend is running on http://localhost:3000)
-6. cd ../artifitia-test-frontend/
-7. npm install
-8. npm run dev (then frontend is running on http://localhost:3001)
+1. git clone <repo-url>
+# Run Backend
+1. cd /artifitia/
+2. cd /artifitia-backend/
+3. npm install
+4. node app.js (then backend is running on http://localhost:3000)
+# Run Frontend
+1. cd /artifitia/
+2. cd /artifitia-test-frontend/
+3. npm install
+4. npm run dev (then frontend is running on http://localhost:3001)
